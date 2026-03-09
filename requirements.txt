@@ -1,0 +1,5 @@
+moviepy
+numpy
+pillow
+openai-whisper
+edge-tts
